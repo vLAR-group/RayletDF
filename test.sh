@@ -14,5 +14,3 @@ CUDA_VISIBLE_DEVICES=$1 python test.py --dpt_model_path /media/HDD2/models/final
 
 
 
-
-
