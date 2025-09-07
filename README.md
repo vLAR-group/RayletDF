@@ -128,7 +128,7 @@ CUDA_VISIBLE_DEVICES=$1 python test.py --dpt_model_path /media/HDD2/models/final
 
 If you want to obtain the normals from RayletDF, set --normal to True.
 
-For testing inference speed on Gaussians, you can run `infer_spedd.py`.
+For testing inference speed on Gaussians, you can run `infer_speed.py`.
 
 Refer to ddp_gs.sh, ddp_pt.sh and test.sh for more examples.
 
