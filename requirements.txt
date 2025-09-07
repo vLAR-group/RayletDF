@@ -1,0 +1,13 @@
+imageio==2.31.2
+iopath==0.1.9
+numpy==1.21.6
+open3d==0.17.0
+opencv_python==4.9.0.80
+Pillow==9.5.0
+plyfile==0.9
+pytorch3d @ git+https://github.com/facebookresearch/pytorch3d.git@stable
+setuptools==65.6.3
+spconv_cu113==2.3.6
+timm==0.9.12
+torch_scatter==2.1.0+pt112cu113
+tqdm==4.66.4

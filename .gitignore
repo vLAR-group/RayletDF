@@ -1,0 +1,6 @@
+# ignore pycache
+*__pycache__/
+# ignore IDE files
+.vscode/
+# ignore debug files
+debug/
