@@ -132,6 +132,7 @@ For testing inference speed on Gaussians, you can run `infer_speed.py`.
 
 Refer to ddp_gs.sh, ddp_pt.sh and test.sh for more examples.
 
+The checkpoints are free to download from [Google Drive](https://drive.google.com/drive/folders/1bh8fUCfLHwq6eoQRvlTFacaXqRnz9R_7?usp=sharing)
 
 ## Citation
 If you find our work useful in your research, please consider citing:
