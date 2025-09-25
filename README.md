@@ -5,7 +5,19 @@
 [![License: CC-BY-NC-SA](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue)](./LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-2508.09830-b31b1b)](https://arxiv.org/pdf/2508.09830)
 
+<p align="center"> <img src="figs/openfig.png" width="100%"> </p>
 This repository will contain the official implementation of the paper: *RayletDF: Raylet Distance Fields for Generalizable 3D Surface Reconstruction from Point Clouds or Gaussians*.
+
+## 📹 Overview
+
+<p align="center"> <img src="figs/overview.png" width="100%"> </p>
+
+We present a generalizable method for 3D surface reconstruction from raw point clouds or pre-estimated 3D Gaussians by 3DGS from RGB images.
+
+<center>
+    <img src="figs/demo_741.gif" width="45%"/>
+    <img src="figs/demo_758.gif" width="45%"/>
+</center>
 
 ## ⚙️ Installation
 ```shell script
