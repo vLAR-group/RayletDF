@@ -14,10 +14,7 @@ This repository will contain the official implementation of the paper: *RayletDF
 
 We present a generalizable method for 3D surface reconstruction from raw point clouds or pre-estimated 3D Gaussians by 3DGS from RGB images.
 
-<center>
-    <img src="figs/demo_741.gif" width="45%"/>
-    <img src="figs/demo_758.gif" width="45%"/>
-</center>
+<p align="center"> <img src="figs/demo.gif" alt="drawing" width="800"/> </p>
 
 ## ⚙️ Installation
 ```shell script
