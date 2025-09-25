@@ -143,7 +143,13 @@ Refer to ddp_gs.sh, ddp_pt.sh and test.sh for more examples.
 
 The checkpoints are free to download from [Google Drive](https://drive.google.com/drive/folders/1bh8fUCfLHwq6eoQRvlTFacaXqRnz9R_7?usp=sharing)
 
-## Citation
+## 🎯 Extension: Plug-in for VGGTs
+
+Our model can be plug and play on the output of VGGT
+
+<p align="center"> <img src="figs/vggt_demo.gif" alt="drawing" width="800"/> </p>
+
+## 📚 Citation
 If you find our work useful in your research, please consider citing:
 ```bibtex   
 @inproceedings{wei2025rayletdf,
