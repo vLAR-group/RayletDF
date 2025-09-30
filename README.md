@@ -33,6 +33,11 @@ pip install -r requirements.txt
 pip install submodules/diff-gaussian-rasterization-raylet
 pip install submodules/simple-knn
 ```
+**If you fail to install the torch_scatter, try to use the file in submodules fodler**
+```
+pip install ./submodules/torch_scatter-2.1.0+pt112cu113-cp37-cp37m-linux_x86_64.whl
+```
+
 **(Optional)** *install Voxel grid k-nearest-neighbor (Only for accelerate inference speed)*
 
 ```shell script
