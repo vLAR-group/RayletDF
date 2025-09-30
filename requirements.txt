@@ -8,6 +8,7 @@ plyfile==0.9
 pytorch3d @ git+https://github.com/facebookresearch/pytorch3d.git@stable
 setuptools==65.6.3
 spconv_cu113==2.3.6
+safetensors==0.4.5
 timm==0.9.12
 torch_scatter==2.1.0+pt112cu113
 tqdm==4.66.4
