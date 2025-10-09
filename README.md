@@ -154,6 +154,8 @@ Our model can be plug and play on the output of VGGT
 
 <p align="center"> <img src="figs/vggt_demo.gif" alt="drawing" width="800"/> </p>
 
+You can use `vggt2point.py` to save vggt's output to `point_cloud.ply`, and then use RayletDF on it like a point cloud data.
+
 ## 📚 Citation
 If you find our work useful in your research, please consider citing:
 ```bibtex   
