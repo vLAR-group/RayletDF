@@ -75,6 +75,7 @@ We provide several scripts in `data_preprocess` folder to convert raw data in th
 |   |---...
 ```
 
+Trained Gaussian assets are available for download at: [link](https://huggingface.co/datasets/MGTK/RayletDF_Gaussians).
 
 The Gaussian data is organised following the official structure:
 ```
